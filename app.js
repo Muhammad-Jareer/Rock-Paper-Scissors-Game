@@ -1,6 +1,5 @@
 let userScore = 0;
 let comScore = 0;
-
 let choices = document.querySelectorAll(".choice");
 const msg = document.querySelector("#msg")
 
